@@ -1,0 +1,8 @@
+This directory contains custom nagios checks written by Vision Critical for
+Nagios.
+
+nagios_notifier.tgz:
+  collection of scripts to do notification consolidation, and
+acknowledgements by email.
+
+
